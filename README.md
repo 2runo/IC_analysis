@@ -11,6 +11,8 @@
 
 ## 사용법
 
+시작하기 전 requirements.txt의 패키지를 모두 설치해 주세요.
+
 ```python3
 from ic import IC
 ic = IC()
