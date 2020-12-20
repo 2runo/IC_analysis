@@ -40,7 +40,7 @@ ic('집')  # 집
   from konlpy.tag import Kkma
   Kkma().tag('살얼음')  # 살얼음
   
-  # IC 분섟
+  # IC 분석
   ic('살얼음')  # 살 + 얼음
   ```
 
