@@ -54,7 +54,7 @@ ic('집')  # 집
 2. 사전에 등재돼 있는 단어만 남기기
     > 민+물고기, 민물+고기
   
-3. 원래 단어와 의미 비교 ([Universial Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)활용)
+3. 원래 단어와 의미 비교 ([Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)활용)
     > 민+물고기 (0.63), 민물+고기 (0.78)
   
 4. 의미가 가장 비슷한 구조 채택
